@@ -1,1 +1,39 @@
-AMBICASYSTEMS
+<!DOCTYPE html>
+<html>
+<head>
+<title>DUCKYCODE</title>
+</head>
+
+<body style="background-color:#FDF3E7;">
+<h1 style="color:#473100; background-color:#E88351;"><b>AMBICA SYSTEMS</b></h1>
+<p style="border:solid 1px; border-color:black; background-color:#4D1E0B; color:#D9693D;"><b>Estblaished in 2010 - Providing best services in Computer Hardware & Networking Solution</b></p><br>
+<h2 style="color:#662A14;">Best class it services in surat</h2><hr>
+<p style="color:#471500;"><b>-:- A very little knowledge about What is computer hardware -:-</b></p>
+<pre style="font-size:14px; color:#301204;"><strong>
+Computer hardware includes the physical parts of a computer, such as the central processing unit (CPU), random-access memory (RAM),motherboard,computer data storage,
+graphics card, sound card, and computer case. It includes external devices such as a monitor, mouse, keyboard, and speakers.</strong><hr>
+</pre>
+<h3 style="color:#471500;"><b>-:- Why maintenance of the hardware is important -:-</b></h3>
+<pre style="color:#301204; font-size:14px;"><b>
+Hardware maintenance is essential to maximize equipment lifespan, ensure data integrity, and minimize costly downtime by preventing unexpected failures through cleaning, diagnostics, and repairs.
+It boosts system performance, reduces long-term repair costs, and ensures compliance with security standards. 
+
+Key reasons for hardware maintenance include:
+<ul>
+<li>Extended Lifespan: Regular care (e.g., cleaning, replacing worn parts) prevents premature degradation, extending equipment utility by years.</li>
+<li>Reduced Downtime and Costs: Predictive maintenance identifies issues before they cause system failures, saving thousands on emergency repairs.</li>
+<li>Optimal Performance: Cleaning dust and updating components keeps systems running efficiently, preventing lag and overheating.</li>
+<li>Data Security and Integrity: Regular maintenance helps ensure data is not lost due to hardware crashes and keeps systems compliant with security standards.</li>
+<li>Improved Efficiency (OEE): As described in industrial contexts (TPM), maintaining equipment ensures higher availability, performance, and quality. </li>
+<li>Hardware maintenance is categorized into preventive (regular checkups), predictive (monitoring conditions), and corrective (fixing issues) measures.</li>
+</ul></b>
+</pre><hr>
+<h3 style="border:solid 1px; border-color:black; background-color:#4D1E0B; color:#D9693D;"><b>Our Services</h3>
+<p style="color:#381A05;"><b>Hardware | Netwrok | Amc | Printer service | Laptop Sales & Service</b></p><hr>
+<address>Destination of your problem's solution -:- <a href="https://www.google.com/maps/dir//Ambica+Systems,+West+Field+Mall,+1067-68,+Ghod+Dod+Rd,+opp.+Surya+Kiran,+Adarsh+Society,+Athwa,+Surat,+Gujarat+395001/@21.1941413,72.8190405,6878m/data=!3m1!1e3!4m8!4m7!1m0!1m5!1m1!1s0x3be04fee23d2806b:0xec4f8b2be2322f6!2m2!1d72.8078805!2d21.1759603?entry=ttu&g_ep=EgoyMDI2MDIwNC4wIKXMDSoASAFQAw%3D%3D" target="_blank">West Field Mall, 1067-68, Ghod Dod Rd, opp. Surya Kiran, Adarsh Society, Athwa, Surat, Gujarat 395001.</a></address><hr>
+<p style="color:#F4B20B; font-size:18px;"><b>Please leave your valuable feedback to us</b></p>
+<a href="https://g.page/r/CfYiI76y-MQOEAE/review" target="_blank"><img src="REVIEW.gif" alt="review stars" style="width:265px;height:180px;"></a>
+
+
+</body>
+</html> 
